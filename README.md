@@ -27,4 +27,5 @@ Läs om:
 - `for`-satsen i kurslitteraturen, kapitel 3, under underrubriken ”_The for loop_”.
 
 ## Lösningsförslag
-[https://github.com/1dv024/exercise-solution-proposals/tree/master/exercise-product-of-integers-master](https://github.com/1dv024/exercise-solution-proposals/tree/master/exercise-product-of-integers-master)
+
+[https://github.com/1dv024/exercise-solution-proposals/tree/master/exercise-product-of-integers](https://github.com/1dv024/exercise-solution-proposals/tree/master/exercise-product-of-integers)
